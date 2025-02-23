@@ -2,5 +2,6 @@
 node_modules
 client/snake-red-team/node_modules
 
+.idea
 # Logs
 *.log
