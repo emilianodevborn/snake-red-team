@@ -1,7 +1,12 @@
 # Ignorar node_modules en cliente y servidor
 /node_modules
 client/snake-react/node_modules
-.idea/
+.idea
+.idea/misc.xml
+.idea/workspace.xml
+*.DS_Store
+*.npmrc
+
 
 # dependencies
 /.pnp
