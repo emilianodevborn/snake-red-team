@@ -1,0 +1,6 @@
+# Ignorar node_modules en cliente y servidor
+node_modules
+client/snake-red-team/node_modules
+
+# Logs
+*.log
